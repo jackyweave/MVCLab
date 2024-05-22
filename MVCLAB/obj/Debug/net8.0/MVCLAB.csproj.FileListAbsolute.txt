@@ -1,0 +1,15 @@
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.AssemblyInfoInputs.cache
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.AssemblyInfo.cs
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.csproj.CoreCompileInputs.cache
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.sourcelink.json
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.exe
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.deps.json
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.runtimeconfig.json
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.dll
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.pdb
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.dll
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\refint\MVCLAB.dll
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.pdb
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.genruntimeconfig.cache
+C:\Users\jacky\projects\repos\MVCLAB\MVCLAB\obj\Debug\net8.0\ref\MVCLAB.dll
